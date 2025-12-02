@@ -83,5 +83,17 @@ th{
     border: 1px solid #0c0101;/*La couleur des bordures*/
     padding: 10px;/*Taille des cases en largeur */
     text-align: center;/*Les textes sont centrer*/
-    background: rgb(95, 203, 52);
+    background: rgb(203, 52, 115);
+}
+
+
+
+form{
+    background: rgb(193, 45, 161);
+    border-radius: 10px;
+    gap: 15px;
+    width: 60%;
+    text-align: center;
+    border-collapse: collapse;
+    margin: 20px auto;
 }
